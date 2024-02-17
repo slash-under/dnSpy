@@ -108,3 +108,5 @@ See the [Wiki](https://github.com/dnSpyEx/dnSpy/wiki) for build instructions and
 dnSpy is licensed under [GPLv3](dnSpy/dnSpy/LicenseInfo/GPLv3.txt).
 
 # [Credits](dnSpy/dnSpy/LicenseInfo/CREDITS.txt)
+
+P.S. this is a quick addition to trigger a CI run
